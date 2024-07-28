@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Pacifico&display=swap');
+
+@font-face {
+	font-family: 'Miroslav';
+	src: url('../font/MiroslavNormal.woff2') format ("woff2");
+	src: url("../font/MiroslavNormal.woff") format('woff'),
+	font-style:normal;
+	font-weight:normal;
+	font-display:swap;
+}
+
+.title {
+	font-family: Miroslav;
+	font-size: 40px;
+	font-weight: 400;
+	color: blue;
+	text-align: center;
+	text-decoration: underline;
+	text-shadow: 3px 2px 3px rgb(79, 0, 128);
+	line-height: 1.5;
+	letter-spacing: 5px;
+	
+}
+.begin {
+	font-family: Pacifico;
+	font-size: 20px;
+	font-weight: 500;
+	color: rgb(178, 139, 61);
+	text-align: left;
+	line-height: 1.2;
+	word-spacing: 10px;
+}
+.interestingfacts h2 {
+	font-family: Miroslav;
+	font-size: 20px;
+	font-weight: 400;
+	color: blue;
+	text-align: center;
+	text-decoration: underline;
+	line-height: 1.5;
+	letter-spacing: 5px;
+}
+.interestingfacts ol {
+	font-family: Pacifico;
+	font-size: 20px;
+	font-weight: 500;
+	color: rgb(178, 139, 61);
+	text-align: left;
+	line-height: 1.2;
+	word-spacing: 10px;
+}
+.first h2 {
+	font-family: Miroslav;
+	font-size: 20px;
+	font-weight: 400;
+	color: blue;
+	text-align: center;
+	text-decoration: underline;
+	line-height: 1.5;
+	letter-spacing: 5px;
+}
